@@ -20,7 +20,7 @@ This project is an interactive Sales Management Dashboard developed using Micros
 
 ## Dashboard Preview
 
-![Dashboard Preview](images/dashboard-preview.png)
+![Dashboard Preview] (https://kommodo.ai/i/CC4CUCAap63UF7L6QLEL)
 
 ## Project Objectives
 - Understand sales performance.
